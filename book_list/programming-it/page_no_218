@@ -1,0 +1,62 @@
+{
+  "20180202/06/18153859981981337000": {
+    "title": "Java WebSocket Programming (Oracle Press) 1st Edition",
+    "url": "https://smtebooks.com//book/3815/java-websocket-programming-oracle-press-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B-KnRiygPbkvQ05OTGRWTzR6bU0"
+  },
+  "20180202/06/18153900901901003000": {
+    "title": "Data Stream Management: Processing High-Speed Data Streams 1st Edition",
+    "url": "https://smtebooks.com//book/3814/data-stream-management-processing-high-speed-data-streams-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B-KnRiygPbkvNUJJci1rcnpISXc"
+  },
+  "20180202/06/18153901434434398000": {
+    "title": "Programming for Computations  - MATLAB/Octave 14th Edition",
+    "url": "https://smtebooks.com//book/3813/programming-computations---matlaboctave-14th-edition-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B-KnRiygPbkvVVVvZkRRTVRrRUE"
+  },
+  "20180202/06/18153902394394377000": {
+    "title": "Clojure Programming Cookbook 1st Edition",
+    "url": "https://smtebooks.com//book/3812/clojure-programming-cookbook-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B81TNkQfgbpEQ1l3c3FGUWxTTTA"
+  },
+  "20180202/06/18153903225225874000": {
+    "title": "Git: Mastering Version Control 1st Edition",
+    "url": "https://smtebooks.com//book/3811/git-mastering-version-control-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B-KnRiygPbkvcVN0V1ViNnVnVEU"
+  },
+  "20180202/06/18153903790790156000": {
+    "title": "Building Bots with Node.js 1st Edition",
+    "url": "https://smtebooks.com//book/3810/building-bots-nodejs-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B-KnRiygPbkvVmNHT25zTUtVMTA"
+  },
+  "20180202/06/18153904327327477000": {
+    "title": "Automate it! - Recipes to upskill your business 1st Edition",
+    "url": "https://smtebooks.com//book/3809/automate-it---recipes-upskill-business-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=1T5aEc2Nxv7TDJxGeifKE-VwkjjubKJHM"
+  },
+  "20180202/06/18153904852852683000": {
+    "title": "Clojure: High Performance JVM Programming 1st Edition",
+    "url": "https://smtebooks.com//book/3808/clojure-high-performance-jvm-programming-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B4hhbFaItiPxOU1QdTM3SzRRaWM"
+  },
+  "20180202/06/18153906057057006000": {
+    "title": "Exploring AWS DevOps 1st Edition",
+    "url": "https://smtebooks.com//book/3807/exploring-aws-devops-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B-KnRiygPbkvQlhRUEVyNUxuS1E"
+  },
+  "20180202/06/18153908466466195000": {
+    "title": "Getting Started with Terraform 1st Edition",
+    "url": "https://smtebooks.com//book/3806/getting-started-terraform-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B4hhbFaItiPxWk1sRVVNYUM1UXc"
+  },
+  "20180202/06/18153909359359230000": {
+    "title": "Elasticsearch: A Complete Guide 1st Edition",
+    "url": "https://smtebooks.com//book/3805/elasticsearch-complete-guide-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B4hhbFaItiPxakQ3UXg1QTN2eFE"
+  },
+  "20180202/06/18153910252252651000": {
+    "title": "HBase High Performance Cookbook 1st Edition",
+    "url": "https://smtebooks.com//book/3804/hbase-high-performance-cookbook-pdf",
+    "download": "https://drive.google.com/uc?export=download&id=0B4hhbFaItiPxa3phcHAtVGJ5Q0k"
+  }
+}

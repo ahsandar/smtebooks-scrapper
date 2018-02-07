@@ -1,0 +1,27 @@
+GIT
+  remote: git@gitlab.com:rubydev/fury.git
+  revision: c4a32601f5b72a21e9fdc570a9cb8ea7637aaf89
+  branch: master
+  specs:
+    fury (0.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coderay (1.1.2)
+    method_source (0.9.0)
+    pry (0.11.3)
+      coderay (~> 1.1.0)
+      method_source (~> 0.9.0)
+    rb-readline (0.5.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  fury!
+  pry
+  rb-readline
+
+BUNDLED WITH
+   1.16.1
