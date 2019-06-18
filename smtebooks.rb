@@ -54,9 +54,7 @@ class SmteBooks
     path = %Q(#{Dir.pwd}/book_list/#{@category})
     Fury.run_now(%Q(mkdir -p #{path}))
     file = File.open("#{path}/page_no_#{page}", "w")
-    puts '#'*80
-    puts "Page no. #{page}"
-    puts '#'*80
+    pp("Page no. #{page}")
     book_list_html = get_book_list("#{@domain}/Category/#{@category}?page=#{page}")
     extracted = extract_book_details(book_list_html)
     output_json = format_extracted_list(extracted)
@@ -67,23 +65,23 @@ class SmteBooks
   def collect_books
     threads = []
     (@pages[:start]..@pages[:end]).each do |page|
-      puts '#'*80
-      puts "starting thread for page #{page}"
-      puts '#'*80
+      pp("starting thread for page #{page}")
       threads << Thread.new {
         collect_book_per_page(page)
      }
       sleep(5)
-      puts '#'*80
-      puts "was sleeping for 5"
-      puts '#'*80
+      pp("was sleeping for 5")
       threads.each(&:join) if threads.size%NO_OF_THREADS == 0
-      puts '#'*80
-      puts "threads completion waiting after page #{page}"
-      puts '#'*80
+      pp("threads completion waiting after page #{page}")
     end
-    puts 'Completed mission !!!!!'
+    pp('Completed mission !!!!!')
 
+  end
+
+  def pp(str)
+    puts '#'*80
+    puts "#{str}"
+    puts '#'*80
   end
 
 end
