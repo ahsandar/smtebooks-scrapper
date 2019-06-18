@@ -9,7 +9,7 @@ Ruby -> `2.3.1`
 ___
 
 
-This project is not for using to voilate any copyrights.
+This project is not for using to voilate any copyrights. Rather to exhibit scrapping and its uses.
 
 It can be used with good intentions to find books that are being hosted to voilate any copyrights. 
 Also If you use this to find a book you like purchase and support the authors.
